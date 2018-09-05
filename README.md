@@ -1,6 +1,6 @@
 # Testing React applications with Jest and Enzyme
 
-A repository written for a blog post about testing React with Jest.
+A repository written for a blog post about testing React with Jest. Tutorial: https://pusher.com/tutorials/react-jest-enzyme
 
 ## Requirements
 
